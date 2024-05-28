@@ -60,7 +60,7 @@ const Experience = () => {
     <span className="explore-more">Explore more about my professional journey....</span>
   </CSSTransition>
   <div className="ml-3"> {/* Add margin between Explore more and download button */}
-    <a href="#" download="Khin_Myo_Wai.pdf" type="application/pdf"
+    <a href="/Resume1.pdf" download="Resume_Khin_Myo_Wai.pdf" type="application/pdf"
       className="btn btn-light d-flex justify-content-center align-items-center me-3" target="_blank">
       Download Resume
       <FaCloudDownloadAlt className="ms-2" />

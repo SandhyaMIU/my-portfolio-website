@@ -72,7 +72,7 @@ export const Contact = () => {
         }
 
         try {
-            const response = await axios.post('https://th9ft3p330.execute-api.us-east-2.amazonaws.com/staging/send-email',
+            const response = await axios.post('https://52r03u6z8k.execute-api.us-east-1.amazonaws.com/Staging/send-email',
                 formData);
 
             console.log(response);
@@ -99,7 +99,7 @@ export const Contact = () => {
 
         <section className="contact py-3 mb-5" id="contact">
             <h2>
-                Let's catch up! 🍀
+                I'd love to hear from you! 🍀
             </h2>
 
             <Container className="pt-3">

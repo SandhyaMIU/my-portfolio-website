@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { SiMedium } from "react-icons/si";
 import { FaCloudDownloadAlt } from "react-icons/fa";
-import profile2 from '../assets/img/Me.jpg';
+import profile2 from '../assets/img/sandhya.jpeg';
 
 
 export const About = () => {
@@ -13,7 +13,7 @@ export const About = () => {
         <section className="about py-3 mb-5" id="about">
             <Container className="pt-3">
                 <Row className="d-flex align-items-center justify-content-center">
-                    <Col xs={12} md={8} className="order-last order-md-first">
+                    <Col xs={12} md={9} className="order-last order-md-first">
 
                     {/* <Tilt>
                         <Lottie 
@@ -31,7 +31,7 @@ export const About = () => {
                         My expertise extends to designing secure RESTful APIs, optimizing database performance, Unit testing and implementing efficient solutions throughout the Software Development Life Cycle.
                             <br /><br />
 
-                            Outside of work, I'm committed to continuous learning, as evidenced by my recent a Master's in Computer Science and holding AWS Cloud Practitioner certificate. 
+                            Outside of work, I'm committed to continuous learning, as evidenced by my recent a Master's in Computer Science and holding a AWS Cloud Practitioner certificate. 
                             I bring expertise in cloud computing and AWS services. I'm eager to leverage my skills and experience to tackle new challenges and deliver innovative solutions in the ever-evolving landscape of technology.
 
                             <br /><br />
@@ -40,12 +40,12 @@ export const About = () => {
                         </div>
                         
                     </Col>
-                    <Col xs={12} md={4} className="order-first order-md-last mb-3">
+                    <Col xs={12} md={3} className="order-first order-md-last mb-3">
                         <div className="d-flex align-items-center justify-content-center">
                             <img
                                 src={profile2} // Replace with your photo URL
                                 alt="Photo"
-                                style={{ borderRadius: '50%', width: '320px', height: '320px', objectFit: 'contain', border: '1px solid #fff' }}
+                                style={{ borderRadius: '50%', width: '260px', height: '260px', objectFit: 'contain', border: '1px solid #fff' }}
                             />
                         </div>
 

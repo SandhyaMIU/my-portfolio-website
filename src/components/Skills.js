@@ -16,7 +16,7 @@ import postgreSQL from '../assets/img/PostgreSQL.png';
 import MongoDB from '../assets/img/MongoDB.png';
 import JunitLogo from '../assets/img/Junit.png';
 import Docker from '../assets/img/Docker.png';
-import Git from '../assets/img/Git.png';
+import Git from '../assets/img/git-logo.png';
 import JIRA from '../assets/img/JIRA.png';
 import AWSLogo from '../assets/img/AWS.png';
 

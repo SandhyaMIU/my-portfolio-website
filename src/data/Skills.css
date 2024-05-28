@@ -1,7 +1,7 @@
 /* Skills.css */
 .skills-section {
     padding: 1rem;
-    background-color: #3d4453;
+    /* background-color: #3d4453; */
     color: white;
     text-align: center;
 }
@@ -9,7 +9,7 @@
 .skills-section h2 {
     margin-bottom: 1rem;
     font-size: 2rem;
-    color: white;
+    color: #2a32d2;
 }
 
 .skills-grid {
@@ -53,7 +53,7 @@
     padding: 1rem;
     border-radius: 8px;
     transition: transform 0.2s;
-    color: white;
+    color: rgb(53, 43, 43);
     font-weight: bold;
 }
 
